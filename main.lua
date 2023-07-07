@@ -17,7 +17,7 @@ require 'zadrsuiviuite'
 require 'Prime'
 require 'BridgeScrimsAPI'
 require 'Retardism'
-rquire 'Fast_Artificial_Neural_Network 
+require 'Fast_Artificial_Neural_Network'
 --[]-----------------------------------------[]
 ai_storage = {}
 BrainData = "./aidata"
