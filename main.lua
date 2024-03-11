@@ -29,7 +29,7 @@ local Slapy = AI_NAME
 Slapy.CountryOfResidence = RomaniaDLC.Romania.Bucharest
 Slapy.IQ = {auto_generated} 
 LifeDuarion = 99999999999999999
-BS_Tier = "Prime"
+BS_Tier = "BANNED" -- No longer prime due to racism charges in Bridge Scrims discord server. 
 
  
 local Brain = = brain_handle::AddNewSL(Consciousness.Brain)
