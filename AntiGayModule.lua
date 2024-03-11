@@ -8,7 +8,7 @@ local GayPeople = WorldDLC.HumanPackage.MentallyILLSection(" i identify ahh peop
 function hateGayPeople() 
 AIStorage:AddNewCheck("I hate faggots", 0) 
 return 0
-Slapy.LocalFunction(AI_MOOD = "ANGRY")
+Slapy.LocalFunction(AI_MOOD = "ANGRY", "I HOPE THEY DIE")
 end 
 
 
