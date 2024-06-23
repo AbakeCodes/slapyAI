@@ -18,6 +18,7 @@ require 'Prime'
 require 'BridgeScrimsAPI'
 require 'Retardism'
 require 'Fast_Artificial_Neural_Network'
+require 'Ginger'
 --[]-----------------------------------------[]
 ai_storage = {}
 BrainData = "./aidata"
